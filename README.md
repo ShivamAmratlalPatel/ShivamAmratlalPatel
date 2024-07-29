@@ -4,6 +4,6 @@
 
 
 - 🔭 I’m currently working on creating a backend FastAPI applicaton
-- 💬 Ask me about Python, FastAPI, Vue, JavaScript, startups
+- 💬 Ask me about Python, FastAPI, Vue, Nuxt, JavaScript, startups
 - 📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/shivam-patel-239236156/)
 
